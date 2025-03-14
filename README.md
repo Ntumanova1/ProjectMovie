@@ -17,3 +17,11 @@ Movie Data : The primary dataset used for this analysis is the "Movie Data Homew
 - Handling errors, missing values.
 - Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Ready to use Dashboard](https://github.com/user-attachments/files/19238692/Dashboard.Excel.xlsx)
 
+### Questions for Data Analysis
+1. Which top 10 genres were the most successful (Box) these years?
+2. Which top 5 actors were the most successful?
+3. Top 5 movies by Box and Budget?
+4. Seasonality?...
+
+### Results and Findings
+As an example: Best profitable movie was: with Budget of... Box Office Revenue was 102,000,000 USD. The genre of this movie was horror.
